@@ -3,26 +3,28 @@ A curated collection of technical and engineering blogs from Iranian professiona
 
 ## Table of Contents
 - [Companies](#companies)
-- [Individuals/Group Contributors](#individualsgroup-contributors)
+- [Personal](#personal)
 
 ## Companies
 
-* [Arvancloud](https://tech.arvancloud.ir)
-* [Bale](https://virgool.io/baleacademy)
-* [Cafebazaar](https://virgool.io/cafebazaar)
-* [Divar](https://virgool.io/divarengineering)
-* [Neshan](https://neshan.blog)
-* [Quera](https://quera.org/blog)
-* [Snapp](https://engineering.snapp.ir)
-* [Tapsell](https://virgool.io/tapsell-tech)
-* [Tapsi](https://virgool.io/tapsi-techblog)
-* [Torob](https://techblog.torob.com)
-* [Virgool](https://virgool.io/virgool)
+| Company      | Tech Blog                                          | Github                                         |
+|--------------|----------------------------------------------------|------------------------------------------------|
+| Arvancloud   | [Tech Blog](https://tech.arvancloud.ir)            | [Github](https://github.com/arvancloud)        |
+| Bale         | [Tech Blog](https://virgool.io/baleacademy)        | [Github](https://github.com/balemessenger)     |
+| Cafebazaar   | [Tech Blog](https://virgool.io/cafebazaar)         | [Github](https://github.com/cafebazaar)        |
+| Divar        | [Tech Blog](https://virgool.io/divarengineering)   | [Github](https://github.com/divar-ir)          |
+| Hamravesh    | [Tech Blog](https://virgool.io/hamravesh)          | [Github](https://github.com/hamravesh)         |
+| Liara        | [Tech Blog](https://liara.ir/blog)                 | [Github](https://github.com/liara-cloud)       |
+| Neshan       | [Tech Blog](https://neshan.blog)                   | [Github](https://github.com/NeshanMaps)        |
+| Quera        | [Tech Blog](https://quera.org/blog)                | [Github](https://github.com/querateam)         |
+| Snapp        | [Tech Blog](https://engineering.snapp.ir)          | [Github](https://github.com/snapp-cab)         |
+| Tapsell      | [Tech Blog](https://virgool.io/tapsell-tech)       | [Github](https://github.com/tapsellorg)        |
+| Tapsi        | [Tech Blog](https://virgool.io/tapsi-techblog)     | [Github](https://github.com/tap30)             |
+| Torob        | [Tech Blog](https://techblog.torob.com)            | [Github](https://github.com/Torob)             |
+| Virgool      | [Tech Blog](https://virgool.io/virgool)            | -                                              |
 
-## Individuals/Group Contributors
+## Personal
 
-* [Abolfazl Mohajeri](http://blog.abolfazlmohajeri.ir)
-
-
-
-
+| Contributor             | Tech Blog                                          |
+|-------------------------|----------------------------------------------------|
+| Abolfazl Mohajeri       | [Tech Blog](http://blog.abolfazlmohajeri.ir)       |
