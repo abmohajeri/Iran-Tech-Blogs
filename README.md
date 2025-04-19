@@ -11,6 +11,7 @@ A curated collection of technical and engineering blogs from Iranian professiona
 |--------------|----------------------------------------------------|------------------------------------------------|
 | Arvancloud   | [Tech Blog](https://tech.arvancloud.ir)            | [Github](https://github.com/arvancloud)        |
 | Bale         | [Tech Blog](https://virgool.io/baleacademy)        | [Github](https://github.com/balemessenger)     |
+| Basalam      | -                                                  | [Github](https://github.com/basalam)           |
 | Cafebazaar   | [Tech Blog](https://virgool.io/cafebazaar)         | [Github](https://github.com/cafebazaar)        |
 | Divar        | [Tech Blog](https://virgool.io/divarengineering)   | [Github](https://github.com/divar-ir)          |
 | Hamravesh    | [Tech Blog](https://virgool.io/hamravesh)          | [Github](https://github.com/hamravesh)         |
