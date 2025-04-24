@@ -1,9 +1,8 @@
 # Iran Tech Blogs
-A curated collection of technical and engineering blogs from Iranian professionals and organizations.
+A curated collection of technical and engineering blogs from Iranian organizations.
 
 ## Table of Contents
 - [Companies](#companies)
-- [Personal](#personal)
 
 ## Companies
 
@@ -23,9 +22,3 @@ A curated collection of technical and engineering blogs from Iranian professiona
 | Tapsi        | [Tech Blog](https://virgool.io/tapsi-techblog)     | [Github](https://github.com/tap30)             |
 | Torob        | [Tech Blog](https://techblog.torob.com)            | [Github](https://github.com/Torob)             |
 | Virgool      | [Tech Blog](https://virgool.io/virgool)            | -                                              |
-
-## Personal
-
-| Contributor             | Tech Blog                                          |
-|-------------------------|----------------------------------------------------|
-| Abolfazl Mohajeri       | [Tech Blog](http://blog.abolfazlmohajeri.ir)       |
