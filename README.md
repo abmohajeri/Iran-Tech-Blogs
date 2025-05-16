@@ -1,11 +1,6 @@
 # Iran Tech Blogs
 A curated collection of technical and engineering blogs from Iranian organizations.
 
-## Table of Contents
-- [Companies](#companies)
-
-## Companies
-
 | Company      | Tech Blog                                          | Github                                         |
 |--------------|----------------------------------------------------|------------------------------------------------|
 | Arvancloud   | [Tech Blog](https://tech.arvancloud.ir)            | [Github](https://github.com/arvancloud)        |
